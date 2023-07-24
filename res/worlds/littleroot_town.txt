@@ -1,0 +1,163 @@
+littleroot_town	21 15		    18	2
+
+fillTerrain				INDOOR_TILES
+
+addObj      16  10  TABLE_TOGETHER
+addObj      12  10  TABLE_TOGETHER
+addObj      1   2   TABLE_SEPERATE
+addObj      4   2   TABLE_SEPERATE
+addObj      7   2   TABLE_SEPERATE
+addObj      1   5   TABLE_SEPERATE
+addObj      4   5   TABLE_SEPERATE
+addObj      7   5   TABLE_SEPERATE
+addObj      10  13  BOOKSHELF
+addObj      12  13  BOOKSHELF
+addObj      14  13  BOOKSHELF
+addObj      16  13  BOOKSHELF
+addObj      18  13  BOOKSHELF
+addObj      11   2   THICC_TABLE
+addObj      19  6   WHITEBOARD
+addObj      19  2   RUG
+addObj      0   11  KIYOI_DESK
+addActor    3   3
+
+
+
+setTerrain		0	14	WALL_TOP
+setTerrain		1	14	WALL_TOP
+setTerrain		2	14	WALL_TOP
+setTerrain		3	14	WALL_TOP
+setTerrain		4	14	WALL_TOP
+setTerrain		5	14	WALL_TOP
+setTerrain		6   14	WALL_TOP
+setTerrain		7	14	WALL_TOP
+setTerrain		8	14	WALL_TOP
+setTerrain		9	14	WALL_TOP
+setTerrain		10	14	WALL_TOP
+setTerrain		11	14	WALL_TOP
+setTerrain		12	14	WALL_TOP
+setTerrain		13	14	WALL_TOP
+setTerrain		14	14	WALL_TOP
+setTerrain		15	14	WALL_TOP
+setTerrain		16	14	WALL_TOP
+setTerrain		17	14	WALL_TOP
+setTerrain		18	14	WALL_TOP
+setTerrain		19	14	WALL_TOP
+
+setTerrain		0	13	INDOOR_TILES_SHADOW
+setTerrain		1	13	INDOOR_TILES_SHADOW
+setTerrain		2	13	INDOOR_TILES_SHADOW
+setTerrain		3	13	INDOOR_TILES_SHADOW
+setTerrain		4	13	INDOOR_TILES_SHADOW
+setTerrain		5	13	INDOOR_TILES_SHADOW
+setTerrain		6	13	INDOOR_TILES_SHADOW
+setTerrain		7	13	INDOOR_TILES_SHADOW
+setTerrain		8	13	INDOOR_TILES_SHADOW
+setTerrain		9	13	INDOOR_TILES_SHADOW
+setTerrain		10	13	INDOOR_TILES_SHADOW
+setTerrain		11	13	INDOOR_TILES_SHADOW
+setTerrain		12	13	INDOOR_TILES_SHADOW
+setTerrain		13	13	INDOOR_TILES_SHADOW
+setTerrain		14	13	INDOOR_TILES_SHADOW
+setTerrain		15	13	INDOOR_TILES_SHADOW
+setTerrain		16	13	INDOOR_TILES_SHADOW
+setTerrain		17	13	INDOOR_TILES_SHADOW
+setTerrain		18	13	INDOOR_TILES_SHADOW
+setTerrain		19	13	INDOOR_TILES_SHADOW
+
+setTerrain		0	0	WALL_BOTTOM
+setTerrain		1	0	WALL_BOTTOM
+setTerrain		2	0	WALL_BOTTOM
+setTerrain		3	0	WALL_BOTTOM
+setTerrain		4	0	WALL_BOTTOM
+setTerrain		5	0	WALL_BOTTOM
+setTerrain		6	0	WALL_BOTTOM
+setTerrain		7	0	WALL_BOTTOM
+setTerrain		8	0	WALL_BOTTOM
+setTerrain		9	0	WALL_BOTTOM
+setTerrain		10	0	WALL_BOTTOM
+setTerrain		11	0	WALL_BOTTOM
+setTerrain		12	0	WALL_BOTTOM
+setTerrain		13	0	WALL_BOTTOM
+setTerrain		14	0	WALL_BOTTOM
+setTerrain		15	0	WALL_BOTTOM
+setTerrain		16	0	WALL_BOTTOM
+setTerrain		17	0	WALL_BOTTOM
+setTerrain		18	0	WALL_BOTTOM
+setTerrain		19	0	WALL_BOTTOM
+
+unwalkable		0	0
+unwalkable		1	0
+unwalkable		2	0
+unwalkable      3   0
+unwalkable		4	0
+unwalkable		5	0
+unwalkable		6	0
+unwalkable		7	0
+unwalkable		8	0
+unwalkable		9	0
+unwalkable		10	0
+unwalkable		11	0
+unwalkable		12	0
+unwalkable		13	0
+unwalkable		14	0
+unwalkable		15	0
+unwalkable		16	0
+unwalkable		17	0
+unwalkable		18	0
+unwalkable		19	0
+unwalkable		0	14
+unwalkable		1	14
+unwalkable		2	14
+unwalkable		3	14
+unwalkable		4	14
+unwalkable		5	14
+unwalkable		6   14
+unwalkable		7	14
+unwalkable		8	14
+unwalkable		9	14
+unwalkable		10	14
+unwalkable		11	14
+unwalkable		12	14
+unwalkable		13	14
+unwalkable		14	14
+unwalkable		15	14
+unwalkable		16	14
+unwalkable		17	14
+unwalkable		18	14
+unwalkable		19	14
+unwalkable      20  0
+unwalkable      20  1
+unwalkable      20  2
+unwalkable      20  3
+unwalkable      20  4
+unwalkable      20  5
+unwalkable      20  6
+unwalkable      20  7
+unwalkable      20  8
+unwalkable      20  9
+unwalkable      20  10
+unwalkable      20  11
+unwalkable      20  12
+unwalkable      20  13
+unwalkable      20  14
+
+setTerrain      20  0   NONE
+setTerrain      20  1   NONE
+setTerrain      20  2   NONE
+setTerrain      20  3   NONE
+setTerrain      20  4   NONE
+setTerrain      20  5   NONE
+setTerrain      20  6   NONE
+setTerrain      20  7   NONE
+setTerrain      20  8   NONE
+setTerrain      20  9   NONE
+setTerrain      20  10   NONE
+setTerrain      20  11   NONE
+setTerrain      20  12   NONE
+setTerrain      20  13   NONE
+setTerrain      20  14   NONE
+
+
+
+//teleport		0	13	INDOOR_TILES_SHADOW	test_map_indoor	7	14	SOUTH	BLACK

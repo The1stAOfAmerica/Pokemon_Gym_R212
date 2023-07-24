@@ -1,0 +1,4 @@
+sources.txt
+bin/
+# Project exclude paths
+/out/
